@@ -1,6 +1,8 @@
 body {
 	margin: 0 auto;
-}
-h1 {
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+.header, .menu, .content, .footer{
+	border: 1px solid red;
+	
 }
